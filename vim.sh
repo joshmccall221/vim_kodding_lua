@@ -1,4 +1,5 @@
 #!/bin/bash
+# http://winter233.com/Using-Vim-with-Neocomplete/
 
 sudo apt-get update
 
