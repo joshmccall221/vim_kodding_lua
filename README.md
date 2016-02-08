@@ -12,7 +12,9 @@ curl http://j.mp/spf13-vim3 -L -o - | sh
 
 
 Dot files: 
+
 Broken NerdTree arrows:
+
 set encoding=utf-8
 
 http://stackoverflow.com/a/18929822/3968223
