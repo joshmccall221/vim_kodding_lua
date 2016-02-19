@@ -7,8 +7,8 @@ https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
 http://vim.spf13.com/#vimrc
 
-curl http://j.mp/spf13-vim3 -L -o - | sh
 
+curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
 
 
 Dot files: 
